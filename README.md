@@ -1,2 +1,2 @@
 # Incredible India App
- Smart India Haackathon 2017
+ Smart India Hackathon 2017
